@@ -7,4 +7,8 @@
 
 ## Files
 - `counterparty_credit_risk.xlsx`: Spreadsheet containing risk calculations, probability distributions, and visualizations.
-- `output.png`: Plot.
+- `plot.png`: Plot.
+
+## Screenshots
+![output](plot.png)
+
